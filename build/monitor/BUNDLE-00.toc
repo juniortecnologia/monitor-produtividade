@@ -1,0 +1,3 @@
+([('monitor',
+   '/Users/almeida/Desktop/meus-projetos/monitor-produtividade-Windows/dist/monitor',
+   'EXECUTABLE')],)
